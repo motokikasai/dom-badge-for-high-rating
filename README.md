@@ -1,0 +1,1 @@
+# dom-badge-for-high-rating
