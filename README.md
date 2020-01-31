@@ -1,1 +1,1 @@
-# dom-badge-for-high-rating
+# Voting for the highest rating and get a badge!
